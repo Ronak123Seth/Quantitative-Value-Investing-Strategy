@@ -1,1 +1,2 @@
 # Quantitative-Value-Investing-Strategy
+This project analyzes a dataset of 6000 stocks to identify the top 10 investment-worthy options using key financial indicators like PE ratio, debt-to-equity ratio, and earnings growth. It allows users to input an investment amount and recommends the top 10 stocks to buy, determining the quantity of each based on financial stability. The results are exported to an Excel file. Implemented in Python using Pandas, Numpy, and Math.
